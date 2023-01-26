@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "63c6876a15b905b9ac012b03"
+  },
+  "gambar": "gambar/glIRsxNLhvCXzlkXnbesuNS7weUOA9XEM4r4RoCU.jpg",
+  "nama": "Metrolite Acrylic Emulsion",
+  "deskripsi": "Produk heritage untuk memberikan sentuhan warna-warni yang indah pada dinding interior. Metrolite Acrylic Emulsion pun akan memberikan lapisan perlindungan kepada dinding. Memiliki aroma yang wangi, mudah diaplikasikan, daya tutup dan sebar terbaik di kelasnya, serta dilengkapi teknologi cepat kering menjadikan cat ini solusi terbaik untuk dinding interior Anda.",
+  "ukuran": "1kg",
+  "harga": 107250,
+  "category_id": "63c68676f9746eb4912f35df",
+  "produsen": "Pacific Paint Indonesia",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673955178919"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673955178919"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c6881915b905b9ac012b04"
+  },
+  "gambar": "gambar/F1WnBoo6sOL2VSk2f6VwaysDTNDn1iMridIdwLt6.jpg",
+  "nama": "Finatex Acrylic Emulsion",
+  "deskripsi": "Cat akrilik untuk melapisi permukaan dinding interior. Memiliki puluhan pilihan warna-warni yang cantik, Finatex Acrylic Emulsion dapat memberikan keindahan pada dinding interior Anda. Dilengkapi dengan teknologi tinggi, membuat cat ini dapat menutup dan menyebar sempurna.",
+  "ukuran": "20kg",
+  "harga": 677500,
+  "category_id": "63c68676f9746eb4912f35df",
+  "produsen": "Pacific Paint Indonesia",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673955353573"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673955353573"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c6889015b905b9ac012b05"
+  },
+  "gambar": "gambar/jOQEQSyFHUtF9QS2XGQZMZ5SDInBjuYeTt2lD1kn.jpg",
+  "nama": "Q LUC NIPPON",
+  "deskripsi": "Q-LUC adalah cat emulsi ekonomis dengan basis resin vinyl acrylic dengan hasil akhir yang halus dan rata. Dapat digunakan untuk dinding interior serta langit-langit berbahan dasar asbes, batako, beton, papan, mortar dll. Q-LUC juga tahan lama, anti-jamur dan cepat kering.",
+  "ukuran": "5kg",
+  "harga": 69000,
+  "category_id": "63c68676f9746eb4912f35df",
+  "produsen": "Nippon Paint",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673955472252"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673955472252"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c688ee15b905b9ac012b06"
+  },
+  "gambar": "gambar/KSwUkBdzxMPiQVOA9kwOGCeYlGc8GDBz7GjtoFmw.jpg",
+  "nama": "Vinilex Pro 1000",
+  "deskripsi": "VINILEX PRO 1000 adalah cat tembok interior yang berkualitas tinggi dengan bahan dasar resin kopolimer polyvinyl akrilik. VINILEX PRO 1000 hadir dengan pilihan warna yang menarik dan lapisan yang halus dan tahan lama (dengan Teknologi Anti-Pudar), cat ini dapat digunakan untuk tembok dan langit-langit berbahan dasar beton, plaster, papan, asbes, mortar, batako, dll; baik yang baru atau yang sudah pernah dicat.",
+  "ukuran": "5kg",
+  "harga": 100000,
+  "category_id": "63c68676f9746eb4912f35df",
+  "produsen": "Nippon Paint",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673955566614"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673955566614"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c6897c15b905b9ac012b07"
+  },
+  "gambar": "gambar/rC49LfzqTMmTb1mGlJZaTfqDClmnQKUA26zVDFAV.jpg",
+  "nama": "Waterproofing Nippon Elastex",
+  "deskripsi": "ELASTEX WATERPROOF 3-in-1 adalah cat pelapis anti-bocor dengan perlindungan 5 tahun anti-bocor, berbahan dasar latex elastomerik akrilik yang sangat tangguh untuk mencegah kebocoran air, menutup retak rambut dan dapat pula berfungsi sebagai cat dasar yang unggul. Cat ini memiliki sifat kedap air, elastis, tahan retak, anti-alkali, anti-jamur, daya rekat yang kuat dan anti-lumer/leleh. Kini telah tersedia dengan lebih dari 2000 warna pilihan.\r\nELASTEX WATERPROOF digunakan pada tempat-tempat yang sering mengalami kebocoran seperti pada langit-langit, atap, talang atau sambungan, atap genteng atau seng, atap asbes atau kayu, atap beton, tangki air, tembok bagian luar, dll. Cat ini dapat digunakan pada semen/beton, kayu, besi dan seng.",
+  "ukuran": "4kg",
+  "harga": 185000,
+  "category_id": "63c68676f9746eb4912f35df",
+  "produsen": "Nippon Paint",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673955823692"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673955708533"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c68ad615b905b9ac012b08"
+  },
+  "gambar": "gambar/OHadJY9BYkAeDXpntagy9xPx7K7og6BbAR931FuI.jpg",
+  "nama": "Dulux Catylac Interior",
+  "deskripsi": "Dulux Catylac Interior dengan formulai Chroma Brite Technology untuk warna dinding cerah menakjubkan lebih lama.",
+  "ukuran": "9kg",
+  "harga": 550000,
+  "category_id": "63c68676f9746eb4912f35df",
+  "produsen": "Dulux",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673956054201"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673956054201"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c68b7515b905b9ac012b09"
+  },
+  "gambar": "gambar/LT0947k6Uz9PgYxrA1Ogi28T3oviUOcRongpPB3P.png",
+  "nama": "Dulux Weathershield Brilliant",
+  "deskripsi": "Dulux Weathershield adalah cat bermutu tinggi khusus untuk eksterior, berbahan dasar air. Dibuat dari 100% bahan acrylic untuk dinding luar yang baru atau sudah pernah dicat sebelumnya.",
+  "ukuran": "15",
+  "harga": 2044000,
+  "category_id": "63c68676f9746eb4912f35df",
+  "produsen": "Dulux",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673956213856"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673956213856"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c68c9515b905b9ac012b0a"
+  },
+  "gambar": "gambar/H8HCJHDzdpNJpGRe7rrX6oHOkJcPAmzjPFFWLk8E.jpg",
+  "nama": "Dulux Ambiance Marble",
+  "deskripsi": "Dulux Ambiance Special Effects Paints adalah cat dengan hasil akhir bertekstur terbaik untuk memberikan kombinasi unik pada dinding sesuai dengan kepribadian Anda. Dulux Ambiance Marble terinspirasi dari keindahan bebatuan alami, menghasilkan tampilan akhir mewah marmer pada dinding Anda",
+  "ukuran": "1kg",
+  "harga": 550000,
+  "category_id": "63c68676f9746eb4912f35df",
+  "produsen": "Dulux",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673956501202"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673956501202"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c68d6f15b905b9ac012b0b"
+  },
+  "gambar": "gambar/josSUhUmJ4wtSrldeZg2kdN2Tsn1TiyZwGLjc9SF.jpg",
+  "nama": "Dulux Weathershield Gloss",
+  "deskripsi": "Dulux Weathershield Gloss adalah cat kayu dan besi berkualitas tinggi khusus untuk exterior. Diformulasikan dengan 100% akrilik yang mampu memberikan perlindungan dan hasil maksimal untuk warna dan kilau kayu dan besi.",
+  "ukuran": "2kg",
+  "harga": 120000,
+  "category_id": "63bb8015b0aed6c765d224b7",
+  "produsen": "Dulux",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673956719082"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673956719082"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c68e6515b905b9ac012b0c"
+  },
+  "gambar": "gambar/Zuf0zbgpu5BiiW4AjiaerEy4dAlZIoVuFcwaNwml.jpg",
+  "nama": "Ultran Lasur",
+  "deskripsi": "ULTRAN LASUR EL-501 adalah pelindung kayu yang memiliki daya penetrasi kuat ke dalam pori-pori kayu yang memberikan perlindungan terhadap cuaca dan mampu menampilkan keindahan serat alami kayu. Didisain khusus untuk daerah yang beriklim tropis, cocok digunakan untuk melindungi dan memperindah kayu yang terekspose sinar matahari dan hujan di proyek-proyek bergengsi seperti hotel, resort dan rumah mewah.",
+  "ukuran": "1kg",
+  "harga": 116000,
+  "category_id": "63bb8015b0aed6c765d224b7",
+  "produsen": "PT Propan Raya ICC",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673956965687"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673956965687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c691ce15b905b9ac012b0d"
+  },
+  "gambar": "gambar/JTDVmnw28ENwfsQnDFWRaRHuOxyGm8QTbgH4HraW.png",
+  "nama": "Ultran Marine EL-502",
+  "deskripsi": "ULTRAN MARINE EL-502 adalah rangkaian Ultran Lasur berbahan dasar urethane alkyd berkualitas tinggi untuk kayu bangunan diluar ruang maupun untuk bagian dinding kapal yang terbuat dari kayu. Memiliki ketahanan yang baik terhadap air laut dan sinar matahari, film yang tebal dengan tingkat kilap yang tinggi. Dapat digunakan untuk interior ataupun eksterior pada area yang tidak kontak terus menerus dengan air. Sangat cocok untuk pengecatan baru ataupun pengecatan ulang.",
+  "ukuran": "1kg",
+  "harga": 168000,
+  "category_id": "63bb8015b0aed6c765d224b7",
+  "produsen": "PT Propan Raya ICC",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673957838792"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673957838792"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c6929415b905b9ac012b0e"
+  },
+  "gambar": "gambar/fsIDneQ5bh6RzoY2cEmFFDBIOQHU15cL0GB8qck1.jpg",
+  "nama": "Spandek Clear",
+  "deskripsi": "Atap spandek bening / transparan\r\n\r\n- Lebar 107cm, efektif 100cm\r\n- Ketebalan 1,2mm\r\n- jarak antar gelombang 15cm\r\n- lebar gelombang 10cm\r\n- tinggi gelombang 3cm",
+  "ukuran": "3kg",
+  "harga": 110000,
+  "category_id": "63bb76c5b0aed6c765d224a8",
+  "produsen": "SS Steelindo",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673958036266"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673958036266"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c693a215b905b9ac012b0f"
+  },
+  "gambar": "gambar/q63iPD6KcbqbzaNIb2ZC8vO99Cr2djlrnSDUOhaC.jpg",
+  "nama": "Atap uPVC Alderon tipe 860 ID",
+  "deskripsi": "Salah satu atap terbaik untuk hunian Anda adalah Atap uPVC.\r\nAtap uPVC memiliki banyak keunggulan, yaitu:\r\n1. Atap dingin & sejuk\r\n2. Tahan Api\r\n3. Tidak mudah berkarat\r\n4. Dapat meredam suara\r\n5. Tidak mudah bocor\r\n6. Tahan terhadap bahan kimia",
+  "ukuran": "5kg",
+  "harga": 87500,
+  "category_id": "63bb76c5b0aed6c765d224a8",
+  "produsen": "PT. Berdikari Tunggal Perkasa",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673958306005"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673958306005"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c6944815b905b9ac012b10"
+  },
+  "gambar": "gambar/PhJ1QmCABXJEUqtjMVr943fMtkLaL4vLkZzXvKba.jpg",
+  "nama": "Union Metal New MP",
+  "deskripsi": "Merupakan atap spandek metal yang memiliki kualitas yang sangat baik pengembangan dari Union MP Deck® yang lebih ekonomis dengan kualitas yang optimal. Memiliki puncak gelombang yang lebih tinggi dengan lebar efektif yang lebih besar serta bentang panjang, jarak tumpuan lebar, dan pemasangan cepat dengan system sekrup menjadikannya pilihan yang ekonomis untuk bangunan komersial, industri, dan perumahan. sehingga daya tampung air hujannya lebih besar.",
+  "ukuran": "5kg",
+  "harga": 101000,
+  "category_id": "63bb76c5b0aed6c765d224a8",
+  "produsen": "PT. Berdikari Tunggal Perkasa",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673958472059"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673958472059"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c6993315b905b9ac012b11"
+  },
+  "gambar": "gambar/XaYokjd0uil1REXotxoLWVGiNv84mOVLXMkWxgDU.jpg",
+  "nama": "Genteng Metal Pasir",
+  "deskripsi": "Atap baja ringan Genteng Metal Pasir.",
+  "ukuran": "2kg",
+  "harga": 32500,
+  "category_id": "63bb76c5b0aed6c765d224a8",
+  "produsen": "SS Steelindo",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673959731235"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673959731235"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c69a8c15b905b9ac012b12"
+  },
+  "gambar": "gambar/N24JKTOfPFHi9sVZaSldtXxNipZalYwFIsmYm2OQ.jpg",
+  "nama": "Roster Beton Minimalis",
+  "deskripsi": "Kategori Dasar Produk : Beton Padat\r\n\r\nKomposisi :\r\nWarna :\r\n⚪Putih : Dolomit dan semen putih\r\n⚫Abu : Abu batu dan semen natural\r\n🔴Terrakota : Gravel dan semen putih/natural\r\n\r\nDimensi Produk : 20X20X8-10CM\r\nVolume 1M2 : 25PCS",
+  "ukuran": "10kg",
+  "harga": 1620000,
+  "category_id": "63c69a9cf9746eb4912f35e0",
+  "produsen": "Mifzal Abadi ID",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673960126945"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673960076673"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c69b6b15b905b9ac012b13"
+  },
+  "gambar": "gambar/v4n7hLszsaGd286axuwsB2BB1ghDX5REKnuihRWd.jpg",
+  "nama": "Grass Block",
+  "deskripsi": "Grassblok atau Grass Block atau Grass Blok dibuat dari bahan campuran pasir, abu batu & semen menggunakan mesin press dengan kualitas tekan K-200",
+  "ukuran": "14kg",
+  "harga": 12000,
+  "category_id": "63c69a9cf9746eb4912f35e0",
+  "produsen": "ANS Beton",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673960299089"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673960299089"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c69cb215b905b9ac012b14"
+  },
+  "gambar": "gambar/mQyPzrMAp3DcRlrynscOzQn3SYT5g2BI2aMIbqnw.jpg",
+  "nama": "U-Ditch",
+  "deskripsi": "Beton untuk gorong-gorong agar tidak merusak tanah sekitar.",
+  "ukuran": "25kg",
+  "harga": 175000,
+  "category_id": "63c69a9cf9746eb4912f35e0",
+  "produsen": "Hidayah Block",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673960626416"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673960626416"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c69d7515b905b9ac012b15"
+  },
+  "gambar": "gambar/3nLHT9l8QoacY80T2KriuuimIpeHbH9lDwXwn5jW.jpg",
+  "nama": "Paving Blok 3D",
+  "deskripsi": "Paving block memiliki nilai estetika yang bagus, karena selain memiliki bentuk segiempat ataupun segibanyak dapat pula berwarna seperti aslinya ataupun diberikan zat pewarna dalam komposisi pembuatan. Paving block ini sendiri berfungsi untuk lantai yang banyak digunakan di luar bangunan serta tidak boleh retak-retak dan cacat.\r\n\r\nPaving Block adalah solusi terbaik untuk lahan resapan saat hujan dan banjir. Pemasangannya tidak susah dan perawatannya pun mudah. Pemasangan dengan motif yang baik akan menambah keindahan bangunan sekitarnya.",
+  "ukuran": "5kg",
+  "harga": 100000,
+  "category_id": "63c69d9af9746eb4912f35e1",
+  "produsen": "Mozard Beton",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673960890290"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673960821695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c69ea215b905b9ac012b16"
+  },
+  "gambar": "gambar/Mg48kKztWaCFY5rGxTvVZv7oVRQpDfezjWbyE0h9.jpg",
+  "nama": "Bata Ringan",
+  "deskripsi": "Bata ringan atau juga disebut bata hebel merupakan salah satu pilihan material yang digunakan untuk pembuatan tembok atau dinding.",
+  "ukuran": "2kg",
+  "harga": 535000,
+  "category_id": "63c69d9af9746eb4912f35e1",
+  "produsen": "Cahaya Baru Group",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673961122299"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673961122299"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63ce67f44915092c5507bb22"
+  },
+  "gambar": "gambar/VElGBcKuV5bBKpZdSRVBYrwYwViKIy5ggwOuw3U2.png",
+  "nama": "Banteng merah",
+  "deskripsi": "HAYOOO PRRIIITTTTT",
+  "ukuran": "99kg",
+  "harga": 999999,
+  "category_id": "63c69a9cf9746eb4912f35e0",
+  "produsen": "SI BANTENG",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674471412380"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1674471412380"
+    }
+  }
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "63bb76c5b0aed6c765d224a8"
+  },
+  "name": "Genteng"
+},{
+  "_id": {
+    "$oid": "63bb8015b0aed6c765d224b7"
+  },
+  "name": "Cat Kayu"
+},{
+  "_id": {
+    "$oid": "63c68676f9746eb4912f35df"
+  },
+  "name": "Cat Tembok"
+},{
+  "_id": {
+    "$oid": "63c69a9cf9746eb4912f35e0"
+  },
+  "name": "Beton"
+},{
+  "_id": {
+    "$oid": "63c69d9af9746eb4912f35e1"
+  },
+  "name": "Batako"
+}]

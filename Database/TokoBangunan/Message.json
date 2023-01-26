@@ -1,0 +1,248 @@
+[{
+  "_id": {
+    "$oid": "63bc2034a067be5e51049942"
+  },
+  "nama": "as",
+  "phone": null,
+  "email": "as",
+  "body": "asdpkfjaofkjafokpjaofkjaokfjaokfjaokfjaokfjaskofjaokfjaokfjkoasfjokasjfokasjfkoasjfokajfkoajfkoajfkoafjokafjakofjakofjakofjakofjaokfjasokfjaofjaofkjafokjaofkjakof",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673326239123"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673273396860"
+    }
+  },
+  "read": true
+},{
+  "_id": {
+    "$oid": "63bcded889ee086fbf0b2cf3"
+  },
+  "nama": "ksdjksjd",
+  "phone": null,
+  "email": "skdlskd",
+  "body": "skdlskdlskdlskd",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673325931486"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673322200122"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63bcece589ee086fbf0b2cf5"
+  },
+  "nama": "mmmmmmmm",
+  "phone": null,
+  "email": "mmmmmmmmmmmm",
+  "body": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673325862093"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673325797546"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63bd1baa729970c0c202df22"
+  },
+  "nama": "alfa berlio muda",
+  "phone": "08813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "halo test ini pesan saya",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673337782414"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673337770983"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63bd84111a86aa26590048c3"
+  },
+  "nama": "alfa berlio muda",
+  "phone": "+628813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "halo test loremn",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673364505969"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673364497642"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63be70d732345208eb0cfd52"
+  },
+  "nama": "alfa berlio muda",
+  "phone": "+62813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "test",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673430175761"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673425111344"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63bf62a366215074fa00f272"
+  },
+  "nama": "alfa berlio muda",
+  "phone": "+62813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "halo 12 januari",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673488988092"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673487011881"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63bf88aa5515f009590f0c42"
+  },
+  "nama": "alfa berlio muda",
+  "phone": "+628813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "test kelas p",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673496824846"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673496746873"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63bfb36ec59369713405d7b2"
+  },
+  "nama": "ricky gunawan",
+  "phone": "+6281259233379",
+  "email": "rickygunawan266@gmail.com",
+  "body": "halo mazzeh",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673507752641"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673507694072"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c521adbd1339bf09003cc2"
+  },
+  "nama": "alfa berlio",
+  "phone": "+628813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "oawkoawkoawkaowaowk",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673871352977"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673863597371"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c52701bd1339bf09003cc3"
+  },
+  "nama": "alfa",
+  "phone": "+628813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "xioxixixixixixi",
+  "read": true,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674472341181"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1673864961213"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d201b5c70fcdfece0fe042"
+  },
+  "nama": "alfa",
+  "phone": "+628813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "uas",
+  "read": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674707381082"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1674707381082"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d201d6c70fcdfece0fe043"
+  },
+  "nama": "Alfa Berlio Muda",
+  "phone": "+628813542629",
+  "email": "animeloversichi@gmail.com",
+  "body": "uas2",
+  "read": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1674707414202"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1674707414202"
+    }
+  }
+}]

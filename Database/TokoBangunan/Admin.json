@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "63b502f6d3d739d8b502c642"
+  },
+  "username": "alfa",
+  "password": "$2y$10$PfjA.9yiARzNpnMlpZSmP.0W7BPF6nkB2i6T6A74bsdq4lmymJIkC",
+  "level": "superadmin",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672839195990"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1672807158967"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63b5232ad3d739d8b502c643"
+  },
+  "username": "fay1",
+  "password": "$2y$10$6Cv.lAeO/KA2Ks/13kIEPOUH.eKWxhEvWJl7fCNKo5w1DFRqHd4v2",
+  "level": "admin",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672840151134"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1672815402578"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63b5804831711db812004302"
+  },
+  "username": "test",
+  "password": "$2y$10$PXPoxrhDyz2y8B7X2w2EjuQoHNwrwXPHm29BkGlQPWnOeVN/MKLuy",
+  "level": "superadmin",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1672839240053"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1672839240053"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63b580ea31711db812004303"
+  },
+  "username": "il13",
+  "password": "$2y$10$9aAcLcwn/RaJR51PN79Ro.DkuxgUkppam1EMrlncXueQiEEhlltbu",
+  "level": "admin",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1673965117956"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1672839402062"
+    }
+  }
+}]
